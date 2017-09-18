@@ -1,0 +1,2 @@
+# gitstudy
+add readme
